@@ -48,16 +48,11 @@ def QR_Decomposition(A):
 A=np.array(eval(input()))
 QR_Decomposition(A)
 
-
-
-
-
-
 ```
 
 ## Output
 ```
-![Screenshot 2025-04-21 193818](https://github.com/user-attachments/assets/41b6fa4a-1f10-459d-b1a0-e2363ce5cd57)
+![Screenshot 2025-04-21 194636](https://github.com/user-attachments/assets/d666f697-ec02-4210-8a03-e6a9baddccd1)
 
 ```
 
